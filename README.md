@@ -1,5 +1,7 @@
 # Rusya Belkin
 
+<img src="https://komarev.com/ghpvc/?username=Belkin1337" alt="Belkin1337 profile views"/>
+  
 I own a computer.
 
 **My skills:**
