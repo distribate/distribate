@@ -6,4 +6,4 @@ I own a computer.
 
 **My skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust,cs,nodejs,yarn,npm,react,nextjs,actix,supabase,tailwind,sass,vite,vercel,unity,docker,mongodb,mysql,postgres,webstorm,vscode,visualstudio,ae,ps,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust,kotlin,cs,nodejs,deno,bun,react,solidjs,nextjs,astro,supabase,tailwind,vite,webpack,docker,sqlite,mongodb,mysql,postgres,webstorm,vscode,unity,nginx,git,figma,ps,windows,yarn,npm,linux)](https://skillicons.dev)
